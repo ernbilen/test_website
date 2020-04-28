@@ -1,66 +1,10 @@
-## Conferences
+## Call for papers
 
-[Edit this page!](https://github.com/cpfiffer/virtual-econ.info/edit/master/conferences.md)
+Here is the information on call for papers.
 
-A list of virtual conferences to learn about cool economics things without having to jump into a seething mass of plague vectors.
+### Text text
 
-### Canadian Economic Theory Conference 2020
-
-This year's conference is organized by the University of British Columbia.
-
-**Dates:** May 8th-9th 2020
-
-**Time:** 7am to 5:20pm PST
-
-**Program and instructions:** [Available here](https://microeconomics.ca/micro/cetc).
-
-**Access:** Open to the public. 
-
-**Registration**: [Please register here](https://zoom.us/webinar/register/9615872292160/WN_ZtYIUomiRPigDbo28x1sdg).
-
-**Organizing committee:**
-
-1. [Michael Peters](https://montoya.econ.ubc.ca)
-1. [Sergei Severinov](https://economics.ubc.ca/faculty-and-staff/sergei-severinov/)
-1. [Li Hao](https://faculty.arts.ubc.ca/lhao/)
-1. [Li Wei](https://economics.ubc.ca/faculty-and-staff/wei-li/)
-1. [Vitor Farinha Luz](https://economics.ubc.ca/faculty-and-staff/vitor-farinha-luz/)
-1. [Shunya Noda](https://economics.ubc.ca/faculty-and-staff/shunya-noda/)
-
-### Virtual Finance & Economics Conference 2020
-
-A fully remote conference for researchers in economics and finance. Contributions that highlight our changing times are welcomed. 
-
-**Submission deadline**: March 25th, 2020
-
-**Conference date**: April 17th, 2020
-
-**Event location**: Zoom
-
-**Program chair**: Arpit Gupta, NYU. [@arpitrage](https://twitter.com/arpitrage)
-
-**Program committee**
-
-* Florian Ederer, Yale [@florianederer](https://twitter.com/florianederer)
-* Paul Goldsmith-Pinkham, Yale [@paulgp](https://twitter.com/paulgp)
-* Emily Nix, USC [@EmilyNix100](https://twitter.com/EmilyNix100)
-* Song Ma, Yale [@ProfSongMa](https://twitter.com/ProfSongMa)
-* Luke Stein, Babson [@lukestein](https://twitter.com/lukestein)
-
-**Links and misc info**
-
-- [Announcement](https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/5e753140c2225859fa93ba1e/1584738624656/callforpapers.pdf)
-- Email submissions to [EconTwitterConf2020@gmail.com](mailto:EconTwitterConf2020@gmail.com).
-
-### DC IO Day
-
-**Date**: Friday May 15, 2020
-
-**Past programs**: [http://econweb.umd.edu/~sweeting/dc_io_conference2019.html ](http://econweb.umd.edu/~sweeting/dc_io_conference2019.html )
-
-**Submissions**
-
-Submissions are invited for the seventh annual Washington DC Industrial Organization Conference to be held via Zoom on Friday May 15, 2020. The conference seeks papers dealing with theoretical, policy or empirical topics related to Industrial Organization, broadly defined. A program committee will select papers and discussants.
+Submissions are invited for the seventh annual XX Conference to be held via XX on XX. The conference seeks papers dealing with theoretical, policy or empirical topics related to Industrial Organization, broadly defined. A program committee will select papers and discussants.
 
 Please submit .pdf copies of papers to [dcioday@gmail.com](mailto:dcioday@gmail.com) by **March 31st, 2020**.  Selected authors will be notified in April.
 
