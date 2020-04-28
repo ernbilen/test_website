@@ -2,7 +2,7 @@
 
 ## Welcome
 
-(name_of_the_website) is the official website for Electronic Health Economics Colloquium (EHEC) which stores various information on the upcoming schedule, resources, and announcements. 
+`Name_of_the_website` is the official website for Electronic Health Economics Colloquium (EHEC) which stores various information on the upcoming schedule, resources, and announcements. 
 
 
 ## Calendar
