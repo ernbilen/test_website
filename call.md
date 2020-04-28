@@ -1,4 +1,4 @@
-## Call for papers
+## Call for Papers
 
 Here is the information on call for papers.
 
