@@ -1,3 +1,5 @@
+![Banner](ehec_banner.jpeg)
+
 # Electronic Health Economics Colloquium (EHEC)
 
 ## Welcome
