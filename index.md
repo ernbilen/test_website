@@ -1,4 +1,4 @@
-# Electronic Health Economics Colloquium (EHEC) Website
+# Electronic Health Economics Colloquium (EHEC)
 
 ## Welcome
 
