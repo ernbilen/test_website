@@ -4,11 +4,13 @@
 
 `Name_of_the_website` is the official website for Electronic Health Economics Colloquium (EHEC) which stores various information on the upcoming schedule, resources, and announcements. 
 
-### HEC Paris Spring Finance Conference
+### (Full event name for this year)
 
 **Date**: April 23rd, 2020
 
 **Registration**: [Register here](https://zoom.us/webinar/register/WN_8xeT7qlyS3WUpz9wUWrDQg)
+
+**Register for Mailing List**: [Register here](https://forms.gle/qUxCU7nkzQcfqa4M7)
 
 <table width="100%" cellspacing="5" cellpadding="5">
 
