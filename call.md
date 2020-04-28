@@ -1,6 +1,6 @@
-## Call for papers
+## Call for Papers
 
-Here is the information on call for papers.
+Here is information on call for papers.
 
 ### Text text
 
