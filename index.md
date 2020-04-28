@@ -18,11 +18,12 @@ Please note that **these times are for the XX zone**.
 ## Links
 
 - [Seminars](./seminars.html)
-- [Conferences](./conferences.html)
-- [Resources](./resources.html)
+- [Call for Papers](./call.html)
+- [About](./about.html)
 - The [AEA list of online seminars](https://www.aeaweb.org/resources/online-seminars)
+<!--
 - [Google calendar link](https://calendar.google.com/calendar/embed?src=4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com&ctz=America%2FLos_Angeles) and the calendar in [iCal format](https://calendar.google.com/calendar/ical/4p7jc9qc9igeb83pmkpjgi80fg%40group.calendar.google.com/public/basic.ics)
-
+-->
 
 ## Support or Contact
 
