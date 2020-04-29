@@ -40,6 +40,6 @@ Here is a calendar for the upcoming schedule.
 
 -->
 
-Please note that **these times are for the XX zone**.
+Please note that these times are for the **XX zone**.
 
 
