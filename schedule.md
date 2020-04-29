@@ -11,9 +11,13 @@ Here is information on the schedule.
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Irina Zviadadze (HEC Paris)</td>
 </tr>
 <tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="RamadoraiZeni_ClimateRegulationEmissionsAbatement.pdf">Registration link</a></td>
+</tr>
+<tr>
   <td width="70" valign="top" class="time">10:00 am</td>
   <td height="30" valign="top" class="paper">Micro Uncertainty and Asset Prices</td>
 </tr>
+
 
 
 <tr>
