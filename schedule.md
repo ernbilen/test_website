@@ -4,7 +4,7 @@ Here is information on the schedule.
 
 
 
-<table width=100% cellspacing="5" cellpadding="5">
+<table style="table-layout: fixed; width: 100%;" >
 <tr>
   <td colspan="4" height="40" valign="top" class="session">Date:</td>
 </tr>
