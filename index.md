@@ -4,7 +4,7 @@
 
 ## Welcome
 
-`Name_of_the_website` is the official website for Electronic Health Economics Colloquium (EHEC) which stores various information on the upcoming schedule, resources, and announcements. gdgfg
+`Name_of_the_website` is the official website for Electronic Health Economics Colloquium (EHEC) which stores various information on the upcoming schedule, resources, and announcements.
 
 
 
@@ -164,6 +164,7 @@ Please note that **these times are for the XX zone**.
 - [Schedule](./seminars.html)
 - [Call for Papers](./call.html)
 - [About](./about.html)
+
 <!--
 - The [AEA list of online seminars](https://www.aeaweb.org/resources/online-seminars) 
 -->
