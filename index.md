@@ -144,9 +144,7 @@ Here is a calendar for the upcoming schedule.
 
 Please note that **these times are for the XX zone**.
 
-## Code of Conduct
 
-![Code](ehec_code.png)
 
 ## Links
 
