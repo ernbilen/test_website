@@ -6,6 +6,18 @@
 
 `Name_of_the_website` is the official website for Electronic Health Economics Colloquium (EHEC) which stores various information on the upcoming schedule, resources, and announcements. 
 
+
+
+
+
+
+
+
+
+
+
+
+<!--
 ### (Full event name for this year)
 
 **Date**: April 23rd, 2020
@@ -132,6 +144,7 @@
 </tr>
 
 </table>
+-->
 
 <!--
 ## Calendar
