@@ -20,6 +20,8 @@ Here is information on the schedule.
 </tr>
 </table>
 
+<br/><br/>
+
 <table width="100%" cellspacing="5" cellpadding="5">
 <tr>
   <td colspan="2" height="40" valign="top" class="session">Date:</td>
