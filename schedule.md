@@ -2,9 +2,7 @@
 
 Here is information on the schedule.
 
-td {
-    width: 200px;
-}
+
 
 <table width=100% cellspacing="5" cellpadding="5">
 <tr>
