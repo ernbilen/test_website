@@ -32,12 +32,6 @@ Here is information on the schedule.
   <td height="30" valign="top" class="paper"><a href="RamadoraiZeni_ClimateRegulationEmissionsAbatement.pdf">Climate Regulation and Emissions Abatement: Theory and Evidence from Firms’ Disclosures</a></td>
 </tr>
 
-| Date |  |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
-
 </table>
 
 <!--
