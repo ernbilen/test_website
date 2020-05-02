@@ -26,10 +26,10 @@
 </tr>
 
 
+
+
+<tr> 
 <tr><td><br/></td></tr>
-
-
-<tr>
   <td colspan="2" height="40" valign="top" class="session">Date:</td>
 </tr>
 <tr>
