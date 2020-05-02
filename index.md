@@ -14,10 +14,10 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
-<!--
-<object data="./schedule_table.html" width="120%" height="595">
+
+<object data="./table_schedule.html" width="120%" height="595">
 </object>
--->
+
 
 <!--
 ### (Full event name for this year)
