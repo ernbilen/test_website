@@ -7,16 +7,22 @@
 `Name_of_the_website` is the official website for Electronic Health Economics Colloquium (EHEC) which stores various information on the upcoming schedule, resources, and announcements.
 
 
-testest7
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
 
 
-<object data="./table_schedule.html" width="120%" height="595">
-</object>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
