@@ -12,7 +12,7 @@
 
 <table width="100%" cellspacing="5" cellpadding="5">
 <tr>
-  <td colspan="4" height="40" valign="top" class="session">Date: April 23rd, 2020 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+  <td colspan="4" height="40" valign="top" class="session">Date: April 23rd, 2020</td>
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Irina Zviadadze (HEC Paris)</td>
@@ -30,7 +30,7 @@
 
 <table width="100%" cellspacing="5" cellpadding="5">
 <tr>
-  <td colspan="2" height="40" valign="top" class="session">Date:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+  <td colspan="2" height="40" valign="top" class="session">Date:</td>
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Irina Zviadadze (HEC Paris)</td>
