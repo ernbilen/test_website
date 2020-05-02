@@ -24,7 +24,9 @@
   <td width="70" valign="top" class="time">10:00 am</td>
   <td height="30" valign="top" class="paper">Micro Uncertainty and Asset Prices</td>
 </tr>
-<br/><br/>
+
+
+<tr><td><br/></td></tr>
 
 
 <tr>
