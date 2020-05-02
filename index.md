@@ -7,9 +7,6 @@
 `Name_of_the_website` is the official website for Electronic Health Economics Colloquium (EHEC) which stores various information on the upcoming schedule, resources, and announcements.
 
 
-
-
-
 <table width="100%" cellspacing="5" cellpadding="5">
 <tr>
   <td colspan="4" height="40" valign="top" class="session">Date: April 23rd, 2020</td>
@@ -26,10 +23,9 @@
 </tr>
 
 
-
+---
 
 <tr> 
-<tr><td><br/></td></tr>
   <td colspan="2" height="40" valign="top" class="session">Date:</td>
 </tr>
 <tr>
