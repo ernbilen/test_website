@@ -8,9 +8,7 @@
 
 
 
-<object data="schedule.html" width="120%" height="595">
-    Your browser doesn’t support the object tag.
-</object>
+schedule.html
 
 
 
