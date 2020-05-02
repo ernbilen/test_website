@@ -8,7 +8,7 @@
 
 
 
-schedule.html
+{% ./schedule.html %}
 
 
 
@@ -162,7 +162,7 @@ Please note that **these times are for the XX zone**.
 
 ## Links
 
-- [Schedule](./seminars.html)
+- [Schedule](./schedule.html)
 - [Call for Papers](./call.html)
 - [About](./about.html)
 
