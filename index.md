@@ -14,7 +14,6 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
-<iframe class="zoom" src="https://wobesity.herokuapp.com"></iframe> <!-- add class zoom to iframe -->
 
 <object data="./schedule_table.html" width="120%" height="595">
 </object>
