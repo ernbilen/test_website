@@ -8,7 +8,9 @@
 
 
 
-{% ./schedule.html %}
+\`\`\`html
+<?php insertTemplate("./schedule.html") ?>
+\`\`\`
 
 
 
