@@ -22,9 +22,11 @@
   <td height="30" valign="top" class="paper">Micro Uncertainty and Asset Prices</td>
 </tr>
 
-<tr style="border-bottom:1px solid black">
-    <td colspan="100%"></td>
-  </tr>
+<tr>
+   <td colspan="2"><hr/></td>
+</tr>
+
+
 
 <tr> 
   <td colspan="2" height="40" valign="top" class="session">Date:</td>
