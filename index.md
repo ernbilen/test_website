@@ -14,6 +14,8 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
+<iframe class="zoom" src="https://wobesity.herokuapp.com"></iframe> <!-- add class zoom to iframe -->
+
 
 
 
