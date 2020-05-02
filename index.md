@@ -15,7 +15,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 
 
-<object data="./table.html" width="120%" height="595">
+<object data="./table.md" width="120%" height="595">
 </object>
 
 
