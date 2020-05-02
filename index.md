@@ -6,6 +6,14 @@
 
 `Name_of_the_website` is the official website for Electronic Health Economics Colloquium (EHEC) which stores various information on the upcoming schedule, resources, and announcements.
 
+## About
+
+You'll find various miscellaneous resources  for seminars or conferences. Good candidates for things you might see in here include virtual teaching resources or "how-to" guides on trying to maintain engagement with students without being able to stare them down.
+
+- [Online Seminar Best Practices](https://www.chamberlainseminar.org/for-other-organizers-online-seminar-best-practices)
+- ["How-to" virtual seminar](https://www.workshop-efi.com/how-to-virtual-seminar) from the WEFI team
+
+
 ## Schedule
 <table width="100%" cellspacing="5" cellpadding="5">
 <tr>
