@@ -18,12 +18,13 @@ Here is information on the schedule.
   <td width="70" valign="top" class="time">10:00 am</td>
   <td height="30" valign="top" class="paper">Micro Uncertainty and Asset Prices</td>
 </tr>
-</table>
 
-<br/><br/>
+  <tr style="border-bottom:1px solid black">
+    <td colspan="100%"></td>
+  </tr>
 
-<table width="100%" cellspacing="5" cellpadding="5">
-<tr>
+
+<tr> 
   <td colspan="2" height="40" valign="top" class="session">Date:</td>
 </tr>
 <tr>
