@@ -30,7 +30,7 @@
 
 <table width="100%" cellspacing="5" cellpadding="5">
 <tr>
-  <td colspan="2" height="40" valign="top" class="session">Date:</td>
+  <td colspan="2" height="40" valign="top" class="session">Date:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Irina Zviadadze (HEC Paris)</td>
