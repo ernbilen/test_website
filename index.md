@@ -22,9 +22,9 @@
   <td height="30" valign="top" class="paper">Micro Uncertainty and Asset Prices</td>
 </tr>
 
-<tr>
-   <td colspan="2"><hr/></td>
-</tr>
+  <tr style="border-bottom:1px solid black">
+    <td colspan="100%"></td>
+  </tr>
 
 
 
