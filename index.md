@@ -16,7 +16,8 @@ allowfullscreen></iframe>
 
 <iframe class="zoom" src="https://wobesity.herokuapp.com"></iframe> <!-- add class zoom to iframe -->
 
-
+<object data="./schedule.html" width="120%" height="595">
+</object>
 
 
 <!--
