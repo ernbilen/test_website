@@ -24,11 +24,9 @@
   <td width="70" valign="top" class="time">10:00 am</td>
   <td height="30" valign="top" class="paper">Micro Uncertainty and Asset Prices</td>
 </tr>
-</table>
-
 <br/><br/>
 
-<table width="100%" cellspacing="5" cellpadding="5">
+
 <tr>
   <td colspan="2" height="40" valign="top" class="session">Date:</td>
 </tr>
