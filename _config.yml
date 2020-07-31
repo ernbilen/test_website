@@ -5,3 +5,5 @@ plugins:
       - jekyll-seo-tag
 logo: ehec_banner.jpg
 show_downloads: true
+github:
+  is_project_page: false
