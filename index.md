@@ -8,7 +8,7 @@ Welcome to the official website for **Tobacco Online Policy Seminar (TOPS)**.  Y
 
 The Electronic Health Economics Colloquium (EHEC) is a bi-weekly online health economics seminar series. The goals of EHEC are to share high-quality, new health economics research on a platform that is freely available; maintain and improve communication among health economists during a time of social distancing; and to promote equity in health economics research.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSfGLtMUsOvNDxmfhIgJ1JbQb6lfmZwAh4mFQIaBM072ZjawBUo75NZtSaZyazLFrqFHU4Tw8ZhzRK2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSfGLtMUsOvNDxmfhIgJ1JbQb6lfmZwAh4mFQIaBM072ZjawBUo75NZtSaZyazLFrqFHU4Tw8ZhzRK2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"; width="1200px"></iframe>
 
 
 ## Schedule
