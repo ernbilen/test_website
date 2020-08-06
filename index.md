@@ -40,9 +40,6 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
    <td height="30" valign="top" class="paper"><a href="{{ speaker.Paper }}">"{{ speaker.Title }}"</a></td> 
 </tr>
 
-  <tr style="border-bottom:1px solid black">
-    <td colspan="100%"></td>
-  </tr>
   
  {% endfor %}
 </table>
