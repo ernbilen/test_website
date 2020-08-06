@@ -30,7 +30,7 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
   <td colspan="2" height="40" valign="top" class="session"><strong>{{ speaker.Date }}</strong></td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter:{{ speaker.Presenter }}</td>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: {{ speaker.Presenter }}</td>
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_z1WSfcmWTi6o5YR7BTLuAA">Registration link</a></td>
