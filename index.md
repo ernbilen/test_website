@@ -1,4 +1,4 @@
-[//]: # ![Banner](ehec_banner.jpg)
+[//]: # ![Banner](banner.jpg)
 
 # Electronic Health Economics Colloquium (EHEC)
 
