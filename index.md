@@ -1,8 +1,8 @@
 ![Banner](banner.jpg)
 
-# Electronic Health Economics Colloquium (EHEC)
+# Tobacco Online Policy Seminar (TOPS)
 
-Welcome to the official website for **Electronic Health Economics Colloquium (EHEC)**.  You can find information about the schedule, view past seminars, find calls for papers,  sign up for email list, and read the seminar code of conduct.  
+Welcome to the official website for **Tobacco Online Policy Seminar (TOPS)**.  You can find information about the schedule, view past seminars, find calls for papers,  sign up for email list, and read the seminar code of conduct.  
 
 ## About
 
