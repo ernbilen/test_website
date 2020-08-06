@@ -1,33 +1,36 @@
-[//]: # ![Banner](banner.jpg)
+![Banner](banner.jpg)
 
 # Electronic Health Economics Colloquium (EHEC)
 
-## Welcome
-
-`Name_of_the_website` is thhe official website for Electronic Health Economics Colloquium (EHEC) which stores various information on the upcoming schedule, resources, and announcements.asdasd
+Welcome to the official website for **Electronic Health Economics Colloquium (EHEC)**.  You can find information about the schedule, view past seminars, find calls for papers,  sign up for email list, and read the seminar code of conduct.  
 
 ## About
 
-You'll find various miscellaneous resources  for seminars or conferences. Good candidates for things you might see in here include virtual teaching resources or "how-to" guides on trying to maintain engagement with students without being able to stare them down.
-
-- [Online Seminar Best Practices](https://www.chamberlainseminar.org/for-other-organizers-online-seminar-best-practices)
-- ["How-to" virtual seminar](https://www.workshop-efi.com/how-to-virtual-seminar) from the WEFI team
+The Electronic Health Economics Colloquium (EHEC) is a bi-weekly online health economics seminar series. The goals of EHEC are to share high-quality, new health economics research on a platform that is freely available; maintain and improve communication among health economists during a time of social distancing; and to promote equity in health economics research.
 
 
 ## Schedule
+
+All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**. 
+
 <table width="100%" cellspacing="5" cellpadding="5">
+
+
+ 
+
 <tr>
-  <td colspan="4" height="40" valign="top" class="session">Date: April 23rd, 2020</td>
+  <td colspan="2" height="40" valign="top" class="session"><strong>Date: August 12, 2020</strong></td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter: Irina Zviadadze (HEC Paris)</td>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: Ashvin Gandhi (University of California, Los Angeles) </td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="RamadoraiZeni_ClimateRegulationEmissionsAbatement.pdf">Registration link</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_z1WSfcmWTi6o5YR7BTLuAA">Registration link</a></td>
 </tr>
 <tr>
-  <td width="70" valign="top" class="time">10:00 am</td>
-  <td height="30" valign="top" class="paper">Micro Uncertainty and Asset Prices</td>
+  <td width="150" valign="top" class="time">2:30 PM EDT</td>
+   <td height="30" valign="top" class="paper"><a href="https://ssrn.com/abstract=3613950">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</a></td> 
+ <!--  <td height="30" valign="top" class="paper">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</td> -->
 </tr>
 
   <tr style="border-bottom:1px solid black">
@@ -35,21 +38,22 @@ You'll find various miscellaneous resources  for seminars or conferences. Good c
   </tr>
 
 
-
-<tr> 
-  <td colspan="2" height="40" valign="top" class="session">Date:</td>
+<tr>
+  <td colspan="2" height="40" valign="top" class="session"><strong>Date: August 26, 2020</strong></td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter: Irina Zviadadze (HEC Paris)</td>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: Adelina Wang (National Bureau of Economic Research) </td>
 </tr>
 <tr>
-  <td width="70" valign="top" class="time">10:40 am</td>
-  <td height="30" valign="top" class="paper"><a href="RamadoraiZeni_ClimateRegulationEmissionsAbatement.pdf">Climate Regulation and Emissions Abatement: Theory and Evidence from Firms’ Disclosures</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_92T51VVdQKqsBJETEWyJ6g">Registration link</a></td>
+</tr>
+<tr>
+  <td width="150" valign="top" class="time">2:30 PM EDT</td>
+ <!--   <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"The Impact of Alternative Types of Post-Acute Medical Care: Stratified IV Analysis with Machine Learning Using Nursing Home Exits"</a></td> -->
+  <td height="30" valign="top" class="paper">"The Impact of Alternative Types of Post-Acute Medical Care: Stratified IV Analysis with Machine Learning Using Nursing Home Exits"</td>
 </tr>
 
 </table>
-
-
 
 
 
@@ -70,7 +74,7 @@ You'll find various miscellaneous resources  for seminars or conferences. Good c
 
 **Registration**: [Register here](https://zoom.us/webinar/register/WN_8xeT7qlyS3WUpz9wUWrDQg)
 
-**Register for Mailing List**: [Register here](https://forms.gle/qUxCU7nkzQcfqa4M7)
+**Register for Mailing List**: [Register here](https://docs.google.com/forms/d/e/1FAIpQLSeDt2f2QulpkWzOwkDB0vLl9Kp8xdC9n5BKTQF-46w-zcxc3g/viewform)
 
 <table width="100%" cellspacing="5" cellpadding="5">
 
@@ -207,12 +211,13 @@ Please note that **these times are for the XX zone**.
 
 ## Links
 
-- [Schedule](./schedule.html)
+- [Schedule](./schedule.md)
 - [Call for Papers](./call.html)
+- [Email List](./email.md)
 - [About](./about.html)
 
 <!--
-- The [AEA list of online seminars](https://www.aeaweb.org/resources/online-seminars) 
+- The [AEA list of online seminars](https://www.aeaweb.org/resources/online-seminars)
 -->
 
 <!--
@@ -221,4 +226,4 @@ Please note that **these times are for the XX zone**.
 
 ## Support or Contact
 
-Contact EHEC by emailing [XX](mailto:XX@gmail.com) or by tweeting [@XX](https://twitter.com/XX).
+Contact EHEC by emailing fr4523 (at) wayne.edu or by Twitter <img src="https://img.icons8.com/color/26/000000/twitter.png"/> [@HlthEconSeminar](https://twitter.com/HlthEconSeminar).
