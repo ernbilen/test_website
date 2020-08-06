@@ -3,7 +3,7 @@ description: [Electronic Health Economics Colloquium (EHEC) conference webpage.]
 theme: jekyll-theme-cayman
 plugins:
       - jekyll-seo-tag
-logo: ehec_banner.jpg
+logo: banner.jpg
 show_downloads: true
 github:
   is_project_page: false
